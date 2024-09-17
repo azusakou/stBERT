@@ -38,7 +38,7 @@ All datasets used in our paper can be found in:
   The processed version: https://db.cngb.org/stomics/mosta/download/.
 
 ## pre-train and fine-tune
-set the data name in config.py, and then run main.py
+set the data name in cfg.py, and then run main.py
 
 The development of this code was partly facilitated by [stAA](https://github.com/CSUBioGroup/stAA), thanks!
 
